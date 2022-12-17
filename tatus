@@ -1,0 +1,54 @@
+[33mcommit 4b8e91a0e11d4c984e8e47de1962dc655b80fae7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8b49b35 faaeea3
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Mon Dec 12 22:26:58 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 8b49b3554660f6814c1189009198084784fde0ec[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Mon Dec 12 21:50:41 2022 -0500
+
+    Agregado el contenido adicional del blog
+
+[33mcommit faaeea3946dd1e4529626b4aae88e58584fcbe80[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Mon Dec 12 21:48:09 2022 -0500
+
+    Finalizada la cabecera
+
+[33mcommit 0c1df4b908b54acd17c9377dad2cd07146300888[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Sat Dec 10 18:20:38 2022 -0500
+
+    Se formateo el html
+
+[33mcommit 16eaf2f356131ee0db2cf7c6ee971a9f2836c57d[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Sat Dec 10 18:17:24 2022 -0500
+
+    Estructura de la cabecera
+
+[33mcommit 4858f24984d7a7fd548bbd2473efa47a11bef7c6[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Sat Dec 10 18:13:22 2022 -0500
+
+    Cambios al html
+
+[33mcommit 668911ec054c5be09cf30e317e166693cb277b98[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Sat Dec 10 17:24:01 2022 -0500
+
+    Cambios en trabajo
+
+[33mcommit c8ecef6cf3b311d0454a9cd003eef645e054fb9f[m
+Author: Eduar Yofree <eduardjofree@gmail.com>
+Date:   Sat Dec 10 17:23:00 2022 -0500
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit 5e088fa8fd777b921bea13b31b4dae84b6cb5435[m
+Author: Eduar Muñoz <eduardjofree@gmail.com>
+Date:   Sat Dec 10 13:20:59 2022 -0500
+
+    Este es el primer commit de este archivo
